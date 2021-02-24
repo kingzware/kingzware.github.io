@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Servicio de Mantenimiento
+# Servicio de Mantenimiento
 
 _yay_
 
-[back](./)
+[inicio](./)

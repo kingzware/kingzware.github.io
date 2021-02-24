@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Hosting de Páginas Web
+# Hosting de Páginas Web
 
 _yay333_
 
-[back](./)
+[inicio](./)

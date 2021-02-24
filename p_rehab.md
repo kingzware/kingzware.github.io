@@ -1,9 +1,0 @@
----
-layout: default
----
-
-## Rehabilitación de Equipos de Cómputo
-
-_yay333_
-
-[back](./)

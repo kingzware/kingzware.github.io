@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contáctame!
+# Instalaciones
 
 _yay333_
 
