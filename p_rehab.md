@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page 2
+## Rehabilitación de Equipos de Cómputo
 
 _yay333_
 
